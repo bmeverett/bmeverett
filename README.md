@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">Windows by day, Mac by night</h3>
 
-- 🌱 I’m currently improving my knowledge in **React and Django**
 
 - 👨‍💻 All of my projects are available at [https://brandoneverett.dev](https://brandoneverett.dev)
 
 - 📝 I sometimes write articles on [https://brandoneverett.dev](https://brandoneverett.dev)
 
-- 💬 Ask me about **C#, react,sql**
 
 - 📄 Know about my experiences [https://brandoneverett.dev/resume](https://brandoneverett.dev/resume)
 
