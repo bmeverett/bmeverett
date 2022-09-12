@@ -11,9 +11,36 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bme2010?label=Twitter&style=social">
+<a href="https://www.linkedin.com/in/brandon-everett-30746b59/"><img src="https://img.shields.io/badge/-Linkedin-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="Linkedin"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  </p>
+<div>
+Current
+<br/>
+  <img src="https://img.shields.io/badge/-Typescript-05128B?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
+  <img src="https://img.shields.io/badge/-NestJs-05128B?logo=nestjs&logoColor=E0234E&style=for-the-badge&logoWidth=30" alt="NestJS">
+  <img src="https://img.shields.io/badge/-MySQL-05128B?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=30" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Redis-05128B?logo=redis&logoColor=DC382D&style=for-the-badge&logoWidth=30" alt="Redis">
+  <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+  <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
+  <img src="https://img.shields.io/badge/-Kubernetes-05128B?logo=kubernetes&logoColor=326CE5&style=for-the-badge&logoWidth=30" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/-Datadog-05128B?logo=datadog&logoColor=632CA6&style=for-the-badge&logoWidth=30" alt="Datadog">
+  <img src="https://img.shields.io/badge/-Google Cloud-05128B?logo=googlecloud&logoColor=4285F4&style=for-the-badge&logoWidth=30" alt="Google Cloud">
+  <br>
+  <img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Visual Studio Code-FB750B?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge&logoWidth=30" alt="Visual Studio Code">
+</div> 
+<br/>
+
+<div>
+Previous
+<br/>
+  <img src="https://img.shields.io/badge/-.NET-05128B?logo=.net&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt=".NET">
+  <img src="https://img.shields.io/badge/-SQL Server-05128B?logo=microsoftsqlserver&logoColor=CC2927&style=for-the-badge&logoWidth=30" alt="SQL Server">
+  <img src="https://img.shields.io/badge/-Azure-05128B?logo=microsoftazure&logoColor=0078D4&style=for-the-badge&logoWidth=30" alt="Azure">
+  <br>
+  <img src="https://img.shields.io/badge/-Visual Studio-FB750B?logo=visualstudio&logoColor=5C2D91&style=for-the-badge&logoWidth=30" alt="Visual Studio">
+</div> 
+</p>
