@@ -23,10 +23,11 @@ Current
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/-Kubernetes-05128B?logo=kubernetes&logoColor=326CE5&style=for-the-badge&logoWidth=30" alt="Kubernetes">
   <img src="https://img.shields.io/badge/-K3-05128B?logo=k3s&logoColor=#FFC61C&style=for-the-badge" alt="K3s">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="Grafana">
   <img src="https://img.shields.io/badge/-Redis-05128B?logo=redis&logoColor=DC382D&style=for-the-badge&logoWidth=30" alt="Redis">  <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
 
-  <img src="https://img.shields.io/badge/-Datadog-05128B?logo=datadog&logoColor=632CA6&style=for-the-badge&logoWidth=30" alt="Datadog">
   <img src="https://img.shields.io/badge/-Typescript-05128B?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
   <br>
   <img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
